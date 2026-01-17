@@ -3,9 +3,14 @@
 Problématique métier
 Une entreprise souhaite analyser la répartition des performances des
 employés pour comprendre les écarts et identifier les outliers.
+
+
 Objectif
 Étudier les distributions des scores de performance et des heures
 travaillées pour détecter les facteurs d'amélioration.
+
+
+
 Compétences à acquérir
 Statistiques descriptives : Moyenne, médiane, mode, quartiles,
 variance, écart-type.
